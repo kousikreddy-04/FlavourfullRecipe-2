@@ -114,6 +114,7 @@ const Index = () => {
         <section className="relative py-12 bg-gradient-to-b from-turmeric-light/30 to-gray-50 hero-pattern">
           <div className="container px-4 mx-auto">
             <div className="text-center max-w-3xl mx-auto">
+            <img src="https://i.pinimg.com/736x/da/93/2f/da932f71cfaba410f0b646a4b911719e.jpg" className=" mx-auto h-auto w-36 mb-4"/>
               <h1 className="text-4xl md:text-5xl font-bold text-spice-dark mb-4">
                 Flavourful Recipes
               </h1>
