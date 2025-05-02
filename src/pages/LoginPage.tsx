@@ -202,7 +202,7 @@ const LoginPage = () => {
                         <FormLabel>Full Name</FormLabel>
                         <FormControl>
                           <Input 
-                            placeholder="John Doe" 
+                            placeholder="Kousik Reddy" 
                             {...field} 
                             className="custom-input"
                           />
